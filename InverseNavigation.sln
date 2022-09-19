@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InverseNavigation", "InverseNavigation\InverseNavigation.csproj", "{272B7B52-6A2E-41D9-AAFA-D3903B110687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272B7B52-6A2E-41D9-AAFA-D3903B110687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272B7B52-6A2E-41D9-AAFA-D3903B110687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272B7B52-6A2E-41D9-AAFA-D3903B110687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272B7B52-6A2E-41D9-AAFA-D3903B110687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3488BF6-7D64-4CD3-850C-870A3DBCD077}
+	EndGlobalSection
+EndGlobal

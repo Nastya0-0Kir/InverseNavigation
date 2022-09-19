@@ -1,0 +1,22 @@
+﻿<Window x:Class="InverseNavigation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InverseNavigation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--<DataGrid  ItemsSource="{Binding dataGridAttendance}" AutoGenerateColumns="False" x:Name="dataGridAttendance">Attendance
+            --><!--<DataGrid.Columns>
+                <DataGridTextColumn x:Name="Groups"
+                                    Binding="{Binding Groups}" 
+                                     Header="Группы" Width="*" />
+                <DataGridTextColumn x:Name="Students"
+                                     Binding="{Binding Students}" 
+                                     Header="Студенты" Width="*" />
+            </DataGrid.Columns>--><!--
+        </DataGrid-->
+    <TextBox x:Name="Attendance"></TextBox>
+    </Grid>
+</Window>
